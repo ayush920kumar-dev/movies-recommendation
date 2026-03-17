@@ -1,5 +1,5 @@
 # movies-recommendation
-machine learning model designed to recommend movies based on preference
+machine learning model designed to recommend movies based on preference.
 import pandas as pd
 import pickle
 from flask import Flask, request, jsonify
